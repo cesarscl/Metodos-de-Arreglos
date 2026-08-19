@@ -2,6 +2,11 @@
 
 Aplicación web simple de lista de tareas (Todo List) desarrollada con HTML, CSS y JavaScript puro, como parte del Desafío del Módulo 03 (Métodos y Arreglos) de Fullstack JS.
 
+## Acceso 
+
+https://cesarscl.github.io/Metodos-de-Arreglos/
+
+
 ## Funcionalidades
 
 - Agregar nuevas tareas escribiendo en el input y presionando el botón "Agregar" o la tecla Enter.
@@ -25,7 +30,7 @@ Aplicación web simple de lista de tareas (Todo List) desarrollada con HTML, CSS
 
 - HTML5
 - CSS3
-- JavaScript (ES6+)
+- JavaScript
 
 ## Cómo usarlo
 
